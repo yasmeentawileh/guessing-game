@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    border: 2px solid red;
+    color: red;
+    font-family: Impact, fantasy;
+    font-style: italic;
+}
+
+p {
+    font-family: URW Chancery L, cursive;
+    font-size: 20px;
+}
